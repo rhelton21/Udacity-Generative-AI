@@ -1,0 +1,18 @@
+# Existing Repository Requirements
+langchain==0.0.305
+openai==0.28.1
+pydantic>=1.10.12
+pytest>=7.4.0
+sentence-transformers==2.2.0
+transformers==4.31.0
+chromadb==0.4.15
+jupyter==1.0.0
+pandas
+python-dotenv
+ipywidgets
+ipykernel
+tiktoken==0.6.0
+huggingface-hub==0.14.1
+tantivy
+chromadb
+
